@@ -104,3 +104,4 @@ The following mathematical functions are supported:
 ## Authors
 
 - Noman Ali
+- GitHub: https://github.com/Noman-Ali20?tab=repositories
