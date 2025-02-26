@@ -5,7 +5,7 @@ A web-based Google Sheets with a dynamic spreadsheet interface, formula support,
 This project is a web application that mimics the user interface and core functionalities of Google Sheets. The application is built using HTML, CSS, and JavaScript and supports key features such as mathematical functions, data quality tools, dynamic cell interactions, and more.
 
 ---
-Live Demo : https://vinay-jalluri.github.io/Web-Application-Mimicking-Google-Sheets/
+Live Demo : https://noman-ali20.github.io/Mimicking-Google-Sheets/
 
 
 ## Features
